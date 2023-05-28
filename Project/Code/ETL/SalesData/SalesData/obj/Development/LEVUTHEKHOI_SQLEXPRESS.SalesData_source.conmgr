@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LEVUTHEKHOI_SQLEXPRESS.SalesData_source"
+  DTS:DTSID="{71BB70FF-8CC0-492C-9061-0E6C79543390}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LEVUTHEKHOI\SQLEXPRESS;Initial Catalog=SalesData_source;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-SalesData-{71BB70FF-8CC0-492C-9061-0E6C79543390}LEVUTHEKHOI\SQLEXPRESS.SalesData_source;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
