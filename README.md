@@ -20,9 +20,13 @@ Building a sales data warehouse is an important activity for businesses today, e
 
 ## 3. Project
 ### 3.1 Building a data warehouse using the SSIS tool
-*	Create a new packed named ExToSource.dtsx: Containing the original data
+- Create a new packed named ExToSource.dtsx: Containing the original data
 ![image](https://github.com/TheKhoiLv/Data-Warehouse-Retail-Sales/assets/134827421/e63d304e-918d-467c-a0e8-2fb3593a92f3)
 - Create a new packed named SourceToStage.dtsx: Select properties and dump original data to Stage tables
 ![image](https://github.com/TheKhoiLv/Data-Warehouse-Retail-Sales/assets/134827421/555b70d8-d95d-4d25-b6e9-90b1b64e7eea)
 - Create a new package named StageToDW.dtsx: Data Warehouse
 ![image](https://github.com/TheKhoiLv/Data-Warehouse-Retail-Sales/assets/134827421/70efba9b-620b-4965-8a4d-40f5dd6bb0ec)
+- Result
+![image](https://github.com/TheKhoiLv/Data-Warehouse-Retail-Sales/assets/134827421/26fb73f8-da50-4d27-847d-bee68167778c)
+### 3.2 Data visualization on Power BI
+![image](https://github.com/TheKhoiLv/Data-Warehouse-Retail-Sales/assets/134827421/80f8a8d8-977f-4884-8740-0450bb95fc64)
