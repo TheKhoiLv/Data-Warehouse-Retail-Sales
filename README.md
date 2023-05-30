@@ -29,5 +29,5 @@ Building a sales data warehouse is an important activity for businesses today, e
 - Result
 ![image](https://github.com/TheKhoiLv/Data-Warehouse-Retail-Sales/assets/134827421/26fb73f8-da50-4d27-847d-bee68167778c)
 ### 3.2 Data visualization on Power BI
--- retailsales data visualization dashboard
+*Retailsales data visualization dashboard*
 ![image](https://github.com/TheKhoiLv/Data-Warehouse-Retail-Sales/assets/134827421/80f8a8d8-977f-4884-8740-0450bb95fc64)
