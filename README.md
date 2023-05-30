@@ -3,7 +3,7 @@
 ## 1. Introduce
 Building a sales data warehouse is an important activity for businesses today, especially in the analysis of sales data. Business data analytics plays an important role in improving warehouse management, chain stores, improving pricing decisions and marketing strategies. Using predictive analytics can help businesses reduce inventory management costs, increase shelf efficiency, focus resources on high-demand areas, and capture trends quickly. sales and optimize shipping.
 
-## Dataset
+### Dataset
 - This is a descriptive dataset of sample sales data taken on www.kaggle.com including a lot of information about sales data, customer information, order information, revenue, delivery, etc.
 - Link Dataset: https://www.kaggle.com/kyanyoga/sample-sales-data
 
